@@ -2,7 +2,7 @@
 
 看看这个能看懂多少：[https://github.com/yijun-l/ai/blob/main/doc/3-1%20Inside%20LLM.md](https://github.com/yijun-l/ai/blob/main/doc/3-1 Inside LLM.md)
 
-深度学习的视频看这个：https://www.bilibili.com/video/BV1owrpYKEtP
+深度学习的视频看这个：[https://www.bilibili.com/video/BV1owrpYKEtP](https://www.bilibili.com/video/BV1owrpYKEtP)
 
 
 
