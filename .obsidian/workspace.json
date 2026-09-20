@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e874a9f3909cfffa",
+        "id": "20e8e6768c826629",
         "type": "tabs",
         "children": [
           {
-            "id": "c0d9340f6dd3719c",
+            "id": "88c841c0ad508725",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -200,10 +200,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c0d9340f6dd3719c",
+  "active": "88c841c0ad508725",
   "lastOpenFiles": [
-    "DeepLearning.md",
     "Tech Materials/Wiki pages.md",
+    "DeepLearning.md",
     "未命名.md",
     "tested for github.md",
     "未命名 1.base",
