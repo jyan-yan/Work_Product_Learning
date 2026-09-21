@@ -1,16 +1,10 @@
 # WebAI
 ## Opencode20260921:
 
-sk-6oTBGMt8m--wI466PQNeng 
-
-API Base URLS  
-
-codex/openai 
-
+- sk-6oTBGMt8m--wI466PQNeng 
+- API Base URLS  
+	- codex/openai 
 https://gateway.webai.avaya.com/v1  
-
-Other clients  
-
+	- Other clients  
 https://gateway.webai.avaya.com  
-
-1year  
+- 1year  
