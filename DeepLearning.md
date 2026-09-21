@@ -1,4 +1,4 @@
-g## 深度学习
+## 深度学习
 
 看看这个能看懂多少：[https://github.com/yijun-l/ai/blob/main/doc/3-1%20Inside%20LLM.md](https://github.com/yijun-l/ai/blob/main/doc/3-1 Inside LLM.md)
 
