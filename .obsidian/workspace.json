@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APIs.md",
+                "file": "Tech Materials/Wiki pages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "APIs"
+              "title": "Wiki pages"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APIs.md",
+                "file": "Tech Materials/Wiki pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APIs.md",
+                "file": "Tech Materials/Wiki pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APIs.md",
+                "file": "Tech Materials/Wiki pages.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,9 +201,9 @@
   },
   "active": "8785df86f2cb8671",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "APIs.md",
     "Tech Materials/Wiki pages.md",
+    "conflict-files-obsidian-git.md",
     "DeepLearning.md"
   ]
 }
